@@ -47,7 +47,7 @@ Add this to your package's `pubspec.yaml` file:
 dependencies:
   rich_notifications:
     git:
-      url: https://github.com/AkshaySarkale/library_flutter_richnotification.git
+      url: https://github.com/Excelsior-Technologies-Community/library_flutter_richnotification.git
 ```
 
 Or run:
