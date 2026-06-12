@@ -1,4 +1,4 @@
-name: library_flutter_richnotification
+name: rich_notifications
 description: "A new Flutter package project."
 version: 0.0.1
 homepage:
@@ -10,6 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_local_notifications: ^22.0.0
 
 dev_dependencies:
   flutter_test:
